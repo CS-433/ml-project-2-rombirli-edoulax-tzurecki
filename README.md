@@ -1,4 +1,4 @@
-# ML Project 2
+# Reinforcement Learning Actor for Blade Pitch Control in Wind Turbine Systems
 
 ## Introduction
 
