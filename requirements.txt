@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+iplantuml
+torch
+matplotlib
+tqdm
+scikit-learn
+ipywidgets
+mat73
+stable-baselines3[extra]
+gymnasium
+shap
